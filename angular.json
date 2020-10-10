@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "practice-interceptor"
+    }
+  },
+  "defaultProject": "practice-interceptor",
+  "cli": {
+    "analytics": false
+  }
 }
